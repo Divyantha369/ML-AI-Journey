@@ -1,4 +1,3 @@
-cat > README.md << 'EOL'
 # ML/AI Engineering Mastery Journey
 
 This repository documents my 10-month journey to master Machine Learning and AI Engineering through a structured curriculum with 213 strategic LeetCode problems and focused project implementations.
