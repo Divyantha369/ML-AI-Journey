@@ -45,11 +45,5 @@ I'm following a structured 10-month curriculum with daily 4-hour deep work sessi
 - 30-minute Implementation Documentation
 - 10-minute Next Session Preparation
 
-## Focus System
 
-This journey uses a system of physical focus cues:
-- Dedicated workspace with focus lighting
-- Focus garment worn only during deep work
-- Sound environment optimization
-- Focus token as a physical anchor
   
